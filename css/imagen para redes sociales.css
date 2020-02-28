@@ -1,0 +1,17 @@
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px 0;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+
+}
+
+
+img:hover{
+    height: 120px;
+    width: 120px;
+    margin-left: 15px 10px;
+
+}

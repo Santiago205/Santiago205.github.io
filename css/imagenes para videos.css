@@ -1,0 +1,16 @@
+img{
+    height: 190px;
+    width: 260px;
+    margin: 10px 0;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+}
+
+
+img:hover{
+    height: 230px;
+    width: 300px;
+    margin-left: 15px 10px;
+
+}
