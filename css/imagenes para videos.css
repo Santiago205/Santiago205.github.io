@@ -9,8 +9,14 @@ img{
 
 
 img:hover{
-    height: 230px;
-    width: 310px;
+    height: 210px;
+    width: 290px;
     margin-left: 15px 10px;
 
+}
+
+
+.container{
+display:flex;
+flex-wrap: wrap;
 }
