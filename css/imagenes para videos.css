@@ -16,7 +16,7 @@ img:hover{
 }
 
 
-.container{
+.contenedor{
 display:flex;
 flex-wrap: wrap;
 }
