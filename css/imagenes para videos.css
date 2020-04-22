@@ -1,7 +1,7 @@
 img{
-    height: 190px;
-    width: 270px;
-    margin: 10px 10px;
+    height: 170px;
+    width: 250px;
+    margin: 20px 10px;
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
     -o-transition: all 1s ease;
@@ -9,9 +9,9 @@ img{
 
 
 img:hover{
-    height: 210px;
-    width: 290px;
-    margin-left: 15px 10px;
+    height: 180px;
+    width: 260px;
+    margin-left: 10px 5px;
 
 }
 
