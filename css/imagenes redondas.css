@@ -5,3 +5,16 @@
     border:5px solid #000000;
 }
 
+.texto a {
+    text-decoration: none;
+    color: silver;
+}
+
+.texto {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.textoo a {
+    text-decoration: none;
+}
