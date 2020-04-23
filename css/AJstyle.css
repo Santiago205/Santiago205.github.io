@@ -1,0 +1,195 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url(../img/fondo.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.redes{
+	width: 40px;
+	height: 40px; 	
+	background-size: 100% 100%;
+	margin-right: 10px;
+	border-radius: 50%;
+	background-repeat: no-repeat;
+}
+
+.icon-facebook{	
+	background-image: url(../img/facebook.svg);
+}
+
+.icon-sololearn{	
+	background-image: url(../img/sololearn.png);
+}
+
+.icon-github{	
+	background-image: url(../img/github.png);
+}
+
+.icon-youtube{	
+	background-image: url(../img/youtube.png);
+}
+
+.icon-twitter{	
+	background-image: url(../img/twitter.jpg);
+}
+
+header, footer{
+	position: fixed;
+	width: 100%;
+	height: 50px; 
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+header{
+	background-color: red;
+	margin-bottom: 10px;
+	top: 0;
+	left: 0;
+}
+
+.menu{
+	width: auto;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	margin-right: 20px; 
+}
+
+.boton_personalizado{
+	background-color: rgba(255,0,0,1);
+	width: 100px;
+	text-decoration: none;
+	color: black;	
+	height: 50px;
+	padding: 5px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	transition: all 0.4s;
+}
+
+.boton_personalizado h3{
+	width: 100%;
+}
+
+.boton_personalizado:hover{
+	background-color: rgba(150,0,0,0.4);
+	color: grey;
+}
+
+.container{
+	width: 100%;
+	max-width: 800px;
+	padding: 60px 0;
+	margin: auto;
+}
+
+.main{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.tarjeta{
+	width: 23%;
+	height: auto;	
+	transition: all 0.4s; 
+	margin: 20px 0;
+}
+
+.tarjeta:hover{
+	cursor: pointer;
+}
+
+.miniatura{
+	width: 100%;
+	height: 80%;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.8);
+}
+
+.slider{
+	display: flex;
+	align-items: center;
+}
+
+.prev, .next{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: white;
+	border: solid 1px red;
+	text-align: center;
+	padding: 14px;
+	cursor: pointer;
+}
+
+.prev{
+	margin-right: 30px;
+}
+
+.next{
+	margin-left: 30px;
+}
+
+footer{
+	background-color: blue;	
+	bottom: 0;
+    left: 0;
+}
+
+footer h2{
+	font-weight: bold;
+}
+
+.group{
+	display: flex;
+	align-items: center;
+}
+
+.logo{
+	width: 40px;
+	height: auto;
+	margin: 0 10px;	
+}
+
+.logo a{
+	width: 100%;
+	height: auto;
+}
+
+#imgLogo{
+	width: 100%;
+	height: auto;
+	margin: 0;
+	border-radius: 50%;
+}
+
+#buscador{
+	margin-right: 20px;
+	width: 200px;
+	height: 30px;
+	padding: 5px;
+	border-radius: 10px;
+	box-shadow: none;
+    outline: 0;
+}
+
+iframe{
+	display: block;
+	margin: auto;
+}
+
+.textprincipal{
+	text-align: justify;
+	margin: 20px 0;
+}
