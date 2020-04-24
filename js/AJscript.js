@@ -1,4 +1,4 @@
-const rutaBase = "https://www.youtube.com/embed/";
+﻿const rutaBase = "https://www.youtube.com/embed/";
 
 function cambiar(direccion){
 	let rutaActual = document.getElementById('videos').src.substr(30);	
@@ -109,7 +109,7 @@ function cargar(state, e){
 		menu2 = 'Articulos cientificos';	
 		container.classList.remove('main');			
 		readJsonFile(function(articulos){
-			container.insertAdjacentHTML('afterbegin', '<div class="slider"><a onclick="cambiar(\'previo\')" class="prev" >&#10094;</a><iframe id="videos" width="90%" height="350" src="https://www.youtube.com/embed/' + articulos[n].ruta + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><a onclick="cambiar(\'siguiente\')" class="next" >&#10095;</a></div>');
+			container.insertAdjacentHTML('afterbegin', '<div class="slider"><iframe id="videos" width="90%" height="350" src="https://www.youtube.com/embed/' + articulos[n].ruta + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
 			titulo = '<h2 class="tituloprincipal">' + articulos[n].titulo + '</h2>';
 			for (let p of articulos[n].texto){
 				texto += '<p class="textprincipal">' + p + '</p>';
