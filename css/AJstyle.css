@@ -55,6 +55,11 @@ header{
 	left: 0;
 }
 
+header h1{
+	font-size: 2.5vw;
+	cursor: pointer;
+}
+
 .menu{
 	width: auto;
 	height: 50px;
@@ -74,6 +79,7 @@ header{
 	display: flex;
 	align-items: center;
 	transition: all 0.4s;
+	cursor: pointer;
 }
 
 .boton_personalizado h3{
@@ -165,6 +171,7 @@ footer h2{
 .logo a{
 	width: 100%;
 	height: auto;
+	cursor: pointer;
 }
 
 #imgLogo{
@@ -192,4 +199,9 @@ iframe{
 .textprincipal{
 	text-align: justify;
 	margin: 20px 0;
+}
+
+.tituloprincipal{
+	margin: 20px 0;
+	text-align: center;
 }
