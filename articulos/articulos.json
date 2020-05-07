@@ -608,9 +608,34 @@
 "Es por eso que cuando vemos imagenes como las de el video creemos que si pueden existir.",
 "Es por eso que las maquinas de movimiento perpetuo no son posibles, aunque si existieran ya no nos tendriamos que preocupar nunca mas de la energia, pero no es asi porque en este canal se obedecen las leyes de la termodinamica."
                        ]
+	},
+	
+	{
+		"id": "27",
+		"titulo": "Las leyes de la termodinámica",
+		"ruta": "W3lWEpTuQIs",
+		"fecha": "07/05/2020",
+		"texto": [
+"La Termodinámica es la rama de la física que describe los estados del equilibrio a través de la energía interna y volumen, también de magnitudes de temperatura y presión que son derivados del volumen y la energía interna.",
+"Nicolás Leonard Sadi Carnot, conocido como Sadi Carnot, nació en París el 1 de Julio de 1796 y murió el 24 de Agosto de 1832. Fue un físico francés pionero en el estudio de la termodinámica. Se le reconoce en la actualidad como el fundador de la termodinámica.",
+"Su principal obra fue su libro Reflexiones sobre la potencia motriz del fuego y sobre las máquinas adecuadas para desarrollar esta potencia en el que se explican conceptos que aun no utilizados en el campo de la termodinámica, tambien en su obra expuso la primera y segunda ley de la termodinamica, y despues en el tiempo ha sido enunciada por diferentes personas.",
+"La termodinamica se basa en las tres leyes de la termodinamica y la ley cero.",
+"La ley cero establece que si se pone un objeto con cierta temperatura en contacto con otro a una temperatura distinta, ambos intercambian calor hasta que sus temperaturas se igualan, un ejemplo de esto es como si ponemos un hielo con agua caliente, estos se intercambiaran calor hasta que esten de la misma temperatura, por lo tanto el hielo se descongela y el agua caliente se habra enfriado hasta el momento en donde ya estan a la misma temperatura.",
+"Esta ley fue enunciada por maxwel y se convirtio en ley gracias a Fowler.",
+"la primera ley de la termodinamica afirma que la cantidad total de energía en cualquier sistema físico aislado permanece invariable con el tiempo, aunque dicha energía puede transformarse en otra forma de energía, basicamente la energia no se crea ni se destruye sino que se conserva, esta ley refleja la ley de la conservación de la energia.",
+"un ejemplo de esta ley seria Cuando a un objeto se le transfiere calor aumenta su energía interna, esto se ve reflejado en el aumento de su temperatura. Cuando a un gas dentro de un pistón se le comprime este recibe trabajo y eso cambio la energía interna del sistema.",
+"esta ley fue enunciada por primera vez por Nicolas carnot.",
+"La segunda ley de la termodinamica establece que si bien todo el trabajo mecánico puede transformarse en calor, no todo el calor puede transformarse en trabajo mecánico. La cantidad de entropía del universo tiende a incrementarse en el tiempo.Este principio establece la irreversibilidad de los fenómenos físicos, especialmente durante el intercambio de calor.",
+"La entropia es la Magnitud termodinámica que indica el grado de desorden molecular de un sistema.",
+"Un ejemplo de esta ley es Lanzar un dado tiene una mayor entropía que lanzar una moneda al aire. Después de todo, lanzar una moneda solamente tiene 2 resultados posibles, mientras que lanzar el dado tiene 6. Cuantos más eventos sean probables, más entropía existe.",
+"esta ley fue enunciada por primera vez por Nicolas Carnot.",
+"La tercera ley de la termodinamica establece que que la entropía de un sistema en el cero absoluto es una constante bien definida. Esto se debe a que existe un sistema a temperatura cero en su estado fundamental, por lo que su entropía está determinada solo por la degeneración del estado fundamental. Afirma que no se puede alcanzar el cero absoluto en un número finito de etapas. Sucintamente, puede definirse como: Al llegar al cero absoluto, 0 K, cualquier proceso de un sistema físico se detiene.",
+"un ejemplo de esta ley es cuando congelas un alimento, por más frio que este, sus átomos siempre estarán en movimiento por lo tanto no se alcanzara el 0 absoluto.",
+"Walther Hermann Nernst fue el autor del llamado teorema del calor, según el cual la entropía de una materia tiende a anularse cuando su temperatura se aproxima al cero absoluto, que constituye la tercera ley de la termodinámica.",
+"Esta serian todas las leyes de la termodinamica y sus respectivos autores y su definición, adios.",
+
+                         ]
 	}
-	
-	
 	 
 	
 	 
