@@ -609,8 +609,7 @@
 "Es por eso que las maquinas de movimiento perpetuo no son posibles, aunque si existieran ya no nos tendriamos que preocupar nunca mas de la energia, pero no es asi porque en este canal se obedecen las leyes de la termodinamica."
                        ]
 	},
-	
-	{
+        {
 		"id": "27",
 		"titulo": "Las leyes de la termodinámica",
 		"ruta": "W3lWEpTuQIs",
@@ -632,10 +631,17 @@
 "La tercera ley de la termodinamica establece que que la entropía de un sistema en el cero absoluto es una constante bien definida. Esto se debe a que existe un sistema a temperatura cero en su estado fundamental, por lo que su entropía está determinada solo por la degeneración del estado fundamental. Afirma que no se puede alcanzar el cero absoluto en un número finito de etapas. Sucintamente, puede definirse como: Al llegar al cero absoluto, 0 K, cualquier proceso de un sistema físico se detiene.",
 "un ejemplo de esta ley es cuando congelas un alimento, por más frio que este, sus átomos siempre estarán en movimiento por lo tanto no se alcanzara el 0 absoluto.",
 "Walther Hermann Nernst fue el autor del llamado teorema del calor, según el cual la entropía de una materia tiende a anularse cuando su temperatura se aproxima al cero absoluto, que constituye la tercera ley de la termodinámica.",
-"Esta serian todas las leyes de la termodinamica y sus respectivos autores y su definición, adios.",
-
+"Esta serian todas las leyes de la termodinamica y sus respectivos autores y su definición, adios."
                          ]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"ruta": "",
+		"fecha": "",
+		"texto": []
 	}
+	
 	 
 	
 	 
