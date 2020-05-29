@@ -95,7 +95,7 @@ function cargar(state, e){
 		state = 'articulos';
 		menu2 = 'Articulos cientificos';	
 		container.classList.remove('main');	
-		container.insertAdjacentHTML('afterbegin', '<div class="slider"><a onclick="cambiar(\'previo\')" class="prev" >&#10094;</a><iframe id="videos" width="90%" height="350" src="https://www.youtube.com/embed/W3lWEpTuQIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><a onclick="cambiar(\'siguiente\')" class="next" >&#10095;</a></div>');
+		container.insertAdjacentHTML('afterbegin', '<div class="slider"><a onclick="cambiar(\'previo\')" class="prev" >&#10094;</a><iframe id="videos" width="90%" height="350" src="https://www.youtube.com/embed/LUPpLl1cRDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><a onclick="cambiar(\'siguiente\')" class="next" >&#10095;</a></div>');
 		readJsonFile(function(articulos){
 			titulo = '<h2 class="tituloprincipal">' + articulos[0].titulo + '</h2>';
 			for (let p of articulos[0].texto){
