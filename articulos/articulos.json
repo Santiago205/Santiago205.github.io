@@ -634,7 +634,22 @@
 "Esta serian todas las leyes de la termodinamica y sus respectivos autores y su definición, adios."
                          ]
 	}
-	
-	 
+	 {
+		"id": "28",
+		"titulo": "Las leyes de newton",
+		"ruta": "LUPpLl1cRDI",
+		"fecha": "29/05/2020",
+		"texto": [
+"Isaac Newton fue un físico, teólogo, inventor, alquimista y matemático inglés.conocido principalmente por: – Establecer las bases de la mecánica clásica a través de sus tres leyes del movimiento que llevan su nombre y su ley de la gravitación universal.",
+"La ley de la gravitación universal, o simplemente, ley de la gravedad, establece la fuerza con la que se atraen dos cuerpos por el simple hecho de tener masa. Así, Newton dedujo que la fuerza con que se atraen dos cuerpos tenía que ser proporcional al producto de sus masas dividido por la distancia entre ellos al cuadrado. Es decir, cuanto más masivos sean los cuerpos y más cercanos se encuentren, con mayor fuerza se atraerán.",
+"Un ejemplo de esta ley hay muchas, como tu viendo este video estas siendo afectado por la gravedad de la tierra haciendo que estes en el piso, un asteroide puede ser atraido por un planeta y chocar, o uno muy famoso, que se caiga una manzana de un arbol.",
+"La primera ley de Newton, establece que un objeto permanecerá en reposo o con movimiento uniforme rectilíneo al menos que sobre él actúe una fuerza externa. Cualquier cambio del movimiento implica una aceleración y entonces se aplica la Segunda ley de Newton.",
+"Un ejemplo de esta ley es un ciclista que esta a punto de bajar una colina muy inclinada, asi que el decide no frenar ni pedalear y frenar cuando llegue hacia abajo,  y cuando va frenar, frena de golpe y por inercia su cuerpo sale disparado, ¿a quien no le ha pasado?.",
+"La segunda ley de newton o también se denomina Principio fundamental de la dinámica y básicamente afirma que la fuerza que se ejerce sobre un determinado cuerpo siempre será proporcional a la aceleración del mismo.",
+"Un ejemplo de esta seria la velocidad de un satelite artificial para poder lograr ponerse en orbita.",
+"Y por ultimo pero no menos importante, La Tercera Ley de Newton también conocida como Principio de acción y reacción nos dice que si un cuerpo A ejerce una acción sobre otro cuerpo B, éste realiza sobre A otra acción igual y de sentido contrario. es basicamente el karma en la fisica clasica.",
+"Un ejemplo de esta ley es que cuando jugamos o jugabamos carritos chocones La fuerza que ejerce el carro chocon de color verde sobre el azul, sera igual que la que ejerce el carro azul sobre el verde."
+]
+	}
 	
 ]
