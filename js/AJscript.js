@@ -71,7 +71,7 @@ function cargarVideos(e){
 }
 
 function cargar(state, e){
-	let logo = '<div class="group"><div class="logo"><a ><img id="imgLogo" src="img/photo.jpg" alt="logo"/></a></div><h1>La Ciencia Esta Aqui</h1></div><div class="group"><div class="menu">'
+	let logo = '<div class="group"><div class="logo"><a ><img id="imgLogo" src="img/photo.jpg" alt="logo"/></a></div><h1>SJ Discover</h1></div><div class="group"><div class="menu">'
 	let menu1 = '<a class="boton_personalizado" onclick="cargar(\'';
 	let menu2 = '';
 	let menu3 = '</h3></a></div>';
@@ -119,7 +119,7 @@ function cargar(state, e){
 	}
 
 	header.insertAdjacentHTML('afterbegin', logo + menu1 + state + '\')" ><h3>' + menu2 + menu3 + buscador + '</div>');
-	footer.insertAdjacentHTML('afterbegin', '<div class="group"><h2>La ciencia esta aquí &copy; 2020 Diseñado por su Papá.</h2></div><div class="group"><a class="icon-sololearn redes" href="https://www.sololearn.com/Profile/17309722" target="_blank"></a><a class="icon-github redes" href="https://github.com/Santiago205" target="_blank"></a><a class="icon-facebook redes" href="https://www.facebook.com/lacienciaestaaqui/?modal=admin_todo_tour" target="_blank"></a><a class="icon-youtube redes" href="https://www.youtube.com/channel/UC_mdhS565pyju92xduvJhmg?view_as=subscriber" target="_blank"></a><a class="icon-twitter redes" href="https://twitter.com/CienciaEsta" target="_blank"></a></div>');
+	footer.insertAdjacentHTML('afterbegin', '<div class="group"><h2>SJ Discover &copy; 2020 Diseñado por su Papá.</h2></div><div class="group"><a class="icon-sololearn redes" href="https://www.sololearn.com/Profile/17309722" target="_blank"></a><a class="icon-github redes" href="https://github.com/Santiago205" target="_blank"></a><a class="icon-facebook redes" href="https://www.facebook.com/lacienciaestaaqui/?modal=admin_todo_tour" target="_blank"></a><a class="icon-youtube redes" href="https://www.youtube.com/channel/UC_mdhS565pyju92xduvJhmg?view_as=subscriber" target="_blank"></a><a class="icon-twitter redes" href="https://twitter.com/CienciaEsta" target="_blank"></a></div>');
 	
 	if(buscador != ''){
 		var buscar = document.querySelector('#buscador');
